@@ -36,8 +36,6 @@ The SIR model is one of the basic models to capture the spread of disease. We li
 
 - A great resource about Information and Resources for COVID-19 Modeling Research. < https://midasnetwork.us/covid-19/ >
 
-# THE TEXT BELOW IS FROM CAGLARS REPOSITORY
-
 ## Project: Modeling COVID19 for policy analysis
 
 The  Corona  virus  pandemic  was  the  biggest  event  globally  this  year.  Many  people  got  sick  with  minorsymptoms,  some  ended  up  in  the  intensive  care  units  (ICUs),  and  some  portion  of  those  infected  died. It  affected  every  aspect  of  everyone’s  life:  national  borders  closed,  flights  were  suspended,  schools  closed, working  from  home  was  instituted,  social  distancing  measures  were  put  in  place,  in  some  countries  facemasks  were  required,  and  washing  your  hands  often  became  a  necessity.  Why  did  the  government  adoptthese measures? Did we do these things to protect ourselves? Or to protect the others? Why? How?
