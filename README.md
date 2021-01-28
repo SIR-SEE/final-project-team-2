@@ -1,3 +1,7 @@
+Please see branch "extended-sir" for our main model.
+
+
+
 SIR_model_SEE070
 
 # Final Project Description
